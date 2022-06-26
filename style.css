@@ -35,3 +35,13 @@ p {
     font-size: 20;
     margin: 10px;
 }
+
+
+.conclusion {
+    background-color: lightskyblue;
+    border: solid;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    flex-direction: column;
+}
