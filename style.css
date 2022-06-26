@@ -1,0 +1,37 @@
+.photo {
+    height: 200px;
+    width: 400px;
+    border-radius: 30px;
+}
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.description {
+    padding: 0px 500px;
+    font-size: 25px;
+}
+
+p {
+    border-radius: 10px;
+}
+
+
+.container_below {
+    margin-top: 50px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.developers {
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    font-size: 20;
+    margin: 10px;
+}
